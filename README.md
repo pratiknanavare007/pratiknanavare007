@@ -1,3 +1,4 @@
+![logo](https://github.com/pratiknanavare007/pratiknanavare007/blob/main/GithubProfile.png)
 <h1 align="center">Hi 👋, I'm Pratik Nanavare</h1>
 <h3 align="center">A Software developer from India</h3>
 
